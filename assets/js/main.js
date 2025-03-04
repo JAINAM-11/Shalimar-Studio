@@ -103,7 +103,7 @@ sr.reveal('.about__data', {origin:'left'})
 sr.reveal('.about__images', {origin:'right'})
 sr.reveal('.about__camera', {delay: 1000})
 sr.reveal('.about__roll, .about__rollstrip', {delay: 1400, rotate:{z:90}})
-sr.reveal('.products__card, .contact__info', {interval: 100})
+sr.reveal('.events__card, .contact__info', {interval: 100})
 sr.reveal('.contact__shape', {delay:600, scale:0})
 sr.reveal('.contact__delivery', {delay:1200})
 
