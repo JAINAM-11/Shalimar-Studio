@@ -344,6 +344,7 @@ img {
 /*=============== SERVICES ===============*/
 .services{
   background-color: var(--light-color);
+  height:100vh;
 }
 
 .services .section__title{
